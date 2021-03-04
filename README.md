@@ -1,2 +1,2 @@
-# EnergyUsagePatterns
-Resident Energy Usage Patterns
+# R.EnergyUsagePatterns
+R Resident Energy Usage Patterns
